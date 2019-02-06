@@ -21,8 +21,7 @@ class DetailContainer extends Component {
       match: {
         params: { id }
       },
-      history: { push },
-      location: { pathname }
+      history: { push }
     } = this.props;
     const { isMovie } = this.state;
     const parsedId = parseInt(id);
