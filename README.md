@@ -4,9 +4,9 @@ React and ES6 by building a Movie Discovery App.
 
 ## Screens
 
-- [ ] Home
-- [ ] TV Shows
-- [ ] Search
+- [x] Home
+- [x] TV Shows
+- [x] Search
 - [ ] Detail
 
 ## Movie API 가져오기
